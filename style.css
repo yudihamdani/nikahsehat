@@ -20,6 +20,9 @@ footer {
   margin-top: auto;
   padding: 20px;
 }
+.h1{
+  font-weight: 700;
+}
 nav {
   padding: 10px 20px;
 }
