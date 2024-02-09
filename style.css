@@ -55,4 +55,8 @@ a.active {
   footer {
     width: 1000px;
   }
+  .img {
+    width: 800px;
+  }
 }
+
